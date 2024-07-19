@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="archetypeGroupId=com.a9ski"/>
+        <listEntry value="archetypeArtifactId=quick-start"/>
+        <listEntry value="archetypeVersion=1.0.0"/>
+        <listEntry value="groupId=rest_assured"/>
+        <listEntry value="artifactId=interview_prep"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+        <listEntry value="package=rest_assured.interview_prep"/>
+        <listEntry value="outputDirectory=C:\Users\das_k\OneDrive\GitHubRepo\learn_restAssured"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\das_k\AppData\Local\Temp\m2e-archetypeGenerator7490437878418986094"/>
+</launchConfiguration>
